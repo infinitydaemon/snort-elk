@@ -15,7 +15,7 @@ Intrusion detection system using open source tools Snort and Elastic Stack. It u
 - Ubuntu LTS as ELK server
 - Hostapd to configure integrated wifi as access point
 - Isc-dhcp-server to provide ip-pool to access point
-- Snort version 2.9.12 at the time of implementation
+- Snort latest version
 - Several comments are given inside code files for debugging if needed
 ## Instructions
 **NOTE**: It may sound good to just run a single script to setup everything, but Arm architecture is a bit of tricky. For easy debugging it is better to run separate code files. 
