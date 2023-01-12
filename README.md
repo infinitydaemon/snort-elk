@@ -11,8 +11,8 @@ Intrusion detection system using open source tools Snort and Elastic Stack. It u
  
 ## Tools specification
 - Raspberry Pi 4 with 8GB of RAM  
-- MikroTik hEX Router
-- Ubuntu LTS as ELK server
+- A capable broadband router
+- Ubuntu / Debian image as ELK server
 - Hostapd to configure integrated wifi as access point
 - Isc-dhcp-server to provide ip-pool to access point
 - Snort latest version
