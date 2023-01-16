@@ -10,7 +10,7 @@ Intrusion detection system using open source tools Snort and Elastic Stack. It u
 3. ELK stack is on OpenStack as monitoring server
  
 ## Tools specification
-- Raspberry Pi 4 with 8GB of RAM  
+- A SoC with 4 with 8GB of RAM minimum
 - A capable broadband router
 - Ubuntu / Debian image as ELK server
 - Hostapd to configure integrated wifi as access point
