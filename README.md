@@ -1,3 +1,4 @@
+![Github Banner](https://cwd.systems/img/banner.png)
 ## Description
 Intrusion detection system using open source tools Snort and Elastic Stack. It utilizes RPi integrated Wi-Fi as an access point to provide connectivity to wireless devices e.g. IoTs etc. To capture traffic from ethernet devices connected to router, you might have to use port mirroring which is not included in this project. In abstract, following is the conceptual design:
 
